@@ -1,7 +1,7 @@
 # VIDEO 2
 
 # Read in data
-baseball = read.csv("baseball.csv")
+baseball = read.csv("moneyball.csv")
 str(baseball)
 
 # Subset to only include moneyball years
