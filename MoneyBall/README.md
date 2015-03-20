@@ -1,2 +1,4 @@
-MoneyBall dataset and R commands - based off of edX course
-==========================================================
+MoneyBall dataset and R commands
+================================
+
+Based off of edX course
